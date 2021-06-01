@@ -1,0 +1,23 @@
+.fondoItem{
+    background-color: #ff111328;
+    height: 450px;
+    border-radius: 20px;
+    color: white;
+}
+.resultado{
+    color: springgreen;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.total{
+    font-size: 80px;
+    font-weight: 700;
+    padding-top: 25px;
+    padding-bottom: 45px;
+}
+.interpretacion{
+    font-size: 18px;
+    margin: 10px;
+    text-align: center;
+}

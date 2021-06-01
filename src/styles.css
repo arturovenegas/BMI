@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #0a0e21;
+}
+
+.titulo{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.row{
+    margin-top: 25px;
+}
+
+.btn-color {
+    color: #fff;
+    background-color: #ff3366;
+    border-color: #ff3366;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.btn-color:hover {
+    color: #fff;
+    background-color: #ff3366d8;
+    border-color: #ff3366d8;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.contenedor{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
